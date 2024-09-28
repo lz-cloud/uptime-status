@@ -7,7 +7,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'u2638486-4ee1ab2018d420fd77cd9876',
+    'ur2638486-fff803817fe1d71871a06c57',
   ],
 
     // 日志天数
@@ -25,8 +25,8 @@ window.Config = {
       url: 'https://faka.leee.xin'
     },
     {
-      text: '论坛1',
-      url: 'https://x.leee.xin'
+      text: '班报',
+      url: 'https://61.leee.xin'
     },
     {
       text: '论坛2',
